@@ -1,0 +1,16 @@
+{
+  "name": "learning-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^4.31.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
